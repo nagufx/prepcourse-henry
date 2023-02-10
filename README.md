@@ -1,2 +1,2 @@
-# prepcourse-henry
-este es un repositorio de prueba del modulo dos de henry
+prueba de como clonar repositorio en mi desktop desde github
+
